@@ -1,0 +1,2 @@
+# item_modifier-set_name
+item_modifierの1項目であるset_nameに関するサンプルになります。
