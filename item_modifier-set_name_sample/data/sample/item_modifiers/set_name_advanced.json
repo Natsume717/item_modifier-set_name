@@ -1,0 +1,14 @@
+[
+  {
+    "function": "minecraft:set_name",
+    "name": {
+      "text": "水中採掘マン",
+      "color": "red",
+      "bold": true,
+      "italic": true,
+      "underlined": false,
+      "strikethrough": false,
+      "obfuscated": false
+    }
+  }
+]

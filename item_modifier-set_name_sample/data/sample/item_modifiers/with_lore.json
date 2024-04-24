@@ -1,0 +1,78 @@
+[
+    {
+      "function": "minecraft:set_name",
+      "name": {
+        "text": "水中採掘マン",
+        "color": "red",
+        "bold": true,
+        "italic": true,
+        "underlined": false,
+        "strikethrough": false,
+        "obfuscated": false,
+        "extra": [
+          {
+            "text": " - ",
+            "color": "white",
+            "bold": true,
+            "italic": true,
+            "underlined": false,
+            "strikethrough": false,
+            "obfuscated": false
+          },
+          {
+            "text": "Mk.Ⅱ",
+            "color": "red",
+            "bold": true,
+            "italic": true,
+            "underlined": false,
+            "strikethrough": false,
+            "obfuscated": false
+          }
+        ]
+      }
+    },
+    {
+      "function": "minecraft:set_lore",
+      "lore": [
+        {
+          "text": "俺が",
+          "color": "white",
+          "bold": true,
+          "italic": true,
+          "underlined": false,
+          "strikethrough": false,
+          "obfuscated": false,
+          "extra": [
+            {
+              "text": "水中採掘マン",
+              "color": "blue",
+              "bold": true,
+              "italic": true,
+              "underlined": false,
+              "strikethrough": false,
+              "obfuscated": false
+            },
+            {
+              "text": "だ！",
+              "color": "white",
+              "bold": true,
+              "italic": true,
+              "underlined": false,
+              "strikethrough": false,
+              "obfuscated": false
+            }
+          ]
+        },
+        {
+          "text": "よろしくな！",
+          "color": "blue",
+          "bold": true,
+          "italic": true,
+          "underlined": false,
+          "strikethrough": false,
+          "obfuscated": false
+        }
+      ]
+    }
+  ]
+  
