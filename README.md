@@ -1,8 +1,7 @@
 # item_modifier-set_name
 item_modifierの1項目であるset_nameに関するサンプルになります。
 
-~詳しくはブログ記事『[]()』を参考にしてください。~<br>
-現在執筆中
+詳しくはブログ記事『[【マイクラ】set_nameでアイテム名を変更【item_modifier】](https://natsumake.com/set_name/)』を参考にしてください。
 
 <h3>概要</h3>
 アイテムに対して、名前を適用させることが可能です。
@@ -17,4 +16,16 @@ item_modifierの1項目であるset_nameに関するサンプルになります�
 
 ```copy
 /item modify entity @s weapon.mainhand sample:set_name
+```
+
+以下のコマンドの場合は、色付き文字など細かな設定を施したものになります。
+
+```copy
+/item modify entity @s weapon.mainhand sample:set_name_advanced
+```
+
+説明文と共に指示しているものを適用した場合は、以下のコマンドを実行してください。
+
+```copy
+/item modify entity @s weapon.mainhand sample:with_lore
 ```
